@@ -49,6 +49,6 @@ In order to maintain legitimate auctions and keep track of buyer actions Christi
 <img src="https://i.imgur.com/6WwKH1a.png" width="60%" align="center">
  
 ## Real-time Auction Bid Function, User Interface, and Interactivity via Socket.io - Andy Tang
-Andy Tang envisioned a web application that invoked in the user the excited feeling of being at a real life auction house. As such, Andy took responsibility for developing with Socket.io to provide real time updates to the application's auction interface much like real life auctioneer.
+Andy Tang envisioned a web application that invoked in the user the excited feeling of being at a real life auction house. As such, Andy took responsibility for developing the real-time auction bid function that updated the database and transmitted the user's bid to credit card processing, provide instantaneous updates to the application's auction interface and database.
 
 <img src="https://i.imgur.com/2Lfun0E.png" width="60%" align="center">
