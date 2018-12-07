@@ -4,7 +4,7 @@ the MVC artchectirual scheme, this application is built to ensure ease of use an
 
 ## Getting Started
 <p>A live and fully functioning deployment of the application can be found <a href="https://bidder-houston.herokuapp.com/login">
-here</a>
+here</a>.
 
 <p><a href="https://imgflip.com/gif/28yo57" ><img src="https://i.imgflip.com/28yo57.gif" title="made at imgflip.com"/></a></p>
 <p align="center"> <a href="https://www.dropbox.com/s/j6c6bbujv5ow60x/bidderAppWalkthrough.mov?dl=0" ><h4> Click here to view full video walkthrough </h4></a></p>
