@@ -3,7 +3,7 @@ Bidder is a full-stack web application that allows users to bid on local art pie
 the MVC artchectirual scheme, this application is built to ensure ease of use and scalability. 
 
 ## Getting Started
-<p>A live and fully functioning deployment of the application can be found here <a href="https://bidder-houston.herokuapp.com/login">
+<p>A live and fully functioning deployment of the application can be found <a href="https://bidder-houston.herokuapp.com/login">
 here</a>
 
 <p><a href="https://imgflip.com/gif/28yo57" ><img src="https://i.imgflip.com/28yo57.gif" title="made at imgflip.com"/></a></p>
@@ -48,6 +48,7 @@ In order to maintain legitimate auctions and keep track of buyer actions Christi
 <img src="https://i.imgur.com/CTtX3lh.png" width="60%" align="center">
 <img src="https://i.imgur.com/6WwKH1a.png" width="60%" align="center">
  
-## User Interface and Interactivity via Socket.io - Andy Tang
-Not satisfied with mediocrity, Andy Tang envisioned a web application that invoked in the user the excited feeling of being at a real life auction house. As such, Andy took responsibility for developing with Socket.io to provide real time updates to the application's auction interface much like real life auctionneer.
+## Real-time Auction Bid Function, User Interface, and Interactivity via Socket.io - Andy Tang
+Andy Tang envisioned a web application that invoked in the user the excited feeling of being at a real life auction house. As such, Andy took responsibility for developing with Socket.io to provide real time updates to the application's auction interface much like real life auctioneer.
 
+<img src="https://i.imgur.com/2Lfun0E.png" width="60%" align="center">
