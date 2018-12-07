@@ -25,7 +25,12 @@ here</a>.
  * Socket.io
 
 
-# Roles and Responsibilities:
+# Roles and Responsibilities
+
+## Real-time Auction Bid Function, User Interface, and Interactivity via Socket.io - Andy Tang
+Andy Tang envisioned a web application that invoked in the user the excited feeling of being at a real life auction house. As such, Andy took responsibility for developing the real-time auction bid function that updated the database and transmitted the user's bid to credit card processing, provide instantaneous updates to the application's auction interface and database.
+
+<img src="https://i.imgur.com/2Lfun0E.png" width="60%" align="center">
 
  ## Database Architecture and Design - Erin Thigpen
  In building this app the team's first order was to create a scalable structure for the database. 
@@ -42,13 +47,8 @@ here</a>.
  <img src="https://i.imgur.com/bar5JZO.png" width="60%" align="center">
  <img src="https://i.imgur.com/hwpyb78.png" width="60%" align="center">
 
-## User Creation, Authentication, and Verification- Christian Lowe
+## User Creation, Authentication, and Verification - Christian Lowe
 In order to maintain legitimate auctions and keep track of buyer actions Christian Lowe took charge of user creation and authentication. By implmenting a flow of registration, email verification, and session creation, the application's user functionality makes the process of acessing bid information and payment options simple, secure, and enjoyable.
 
 <img src="https://i.imgur.com/CTtX3lh.png" width="60%" align="center">
 <img src="https://i.imgur.com/6WwKH1a.png" width="60%" align="center">
- 
-## Real-time Auction Bid Function, User Interface, and Interactivity via Socket.io - Andy Tang
-Andy Tang envisioned a web application that invoked in the user the excited feeling of being at a real life auction house. As such, Andy took responsibility for developing the real-time auction bid function that updated the database and transmitted the user's bid to credit card processing, provide instantaneous updates to the application's auction interface and database.
-
-<img src="https://i.imgur.com/2Lfun0E.png" width="60%" align="center">
