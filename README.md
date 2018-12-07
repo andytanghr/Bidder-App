@@ -18,14 +18,14 @@ here</a>.
  * Node.js
  * Express.js
  * PostgreSQL
- * Pg-Promise
+ * pg-promise
  * Stripe API
- * Socket.io
+ * Socket.IO
 
 
 # Roles and Responsibilities
 
-## Auction Bidding Function, User Interface, and Interactivity via Socket.io - Andy Tang
+## Auction Bidding Function, User Interface, and Interactivity via Socket.IO - Andy Tang
 Andy Tang envisioned a web application that invoked in the user the excited feeling of being at a real life auction house. As such, Andy took responsibility for developing the real-time auction bid function that updated the database and transmitted the user's bid to credit card processing, provide instantaneous updates to the application's auction interface and database.
 
 <img src="https://i.imgur.com/2Lfun0E.png" width="60%" align="center">
