@@ -25,13 +25,13 @@ here</a>.
 
 # Roles and Responsibilities
 
-## Auction Bidding Function, User Interface, and Interactivity via Socket.IO - Andy Tang
+## Auction Bidding, User Interface, and Interactivity via Socket.IO - Andy Tang
 Andy Tang envisioned a web application that invoked in the user the excited feeling of being at a real life auction house. As such, Andy took responsibility for developing the real-time auction bid function that updated the database and transmitted the user's bid to credit card processing, provide instantaneous updates to the application's auction interface and database.
 
 <img src="https://i.imgur.com/2Lfun0E.png" width="60%" align="center">
 
  ## Database Architecture and Design - Erin Thigpen
- In building this app the team's first order was to create a scalable structure for the database. 
+ In building this app, the team's first order was to create a scalable structure for the database. 
  Erin Thigpen took ownership of this process and led the implemntation of the data model from initial planning and visualization all the way to testing and live deployment.  
  
  <img src="https://i.imgur.com/nLkmUcY.png" width="60%" align="left">
